@@ -20,8 +20,8 @@
   :block/created-at 1664617329319,
   :block/updated-at 1664617329319}
  {:block/name "cs144: computer networking",
-  :block/created-at 1664634601861,
-  :block/updated-at 1664634601861}
+  :block/created-at 1664617356343,
+  :block/updated-at 1664617402145}
  {:block/name "doing",
   :block/created-at 1664617329319,
   :block/updated-at 1664617329319}
@@ -31,15 +31,6 @@
  {:block/name "favorites",
   :block/created-at 1664617329319,
   :block/updated-at 1664617329319}
- {:block/name "file",
-  :block/created-at 1664634652215,
-  :block/updated-at 1664634652215}
- {:block/name "file-path",
-  :block/created-at 1664634652216,
-  :block/updated-at 1664634652216}
- {:block/name "hls__tsun_nok,_cheung_1664618426399_0",
-  :block/created-at 1664634652208,
-  :block/updated-at 1664634652208}
  {:block/name "in-progress",
   :block/created-at 1664617329319,
   :block/updated-at 1664617329319}
